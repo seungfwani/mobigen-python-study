@@ -2,6 +2,8 @@
 
 대표님과 함께하는 python 스터디 그룹
 
+Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목표입니다.
+
 ## 일정
 
 - 1주차 : 2021-06-17(목) 19시 ~20시
@@ -30,12 +32,12 @@
 
 ## 문서
 
-원문: https://docs.python.org/3/library/index.html
-한국어: https://docs.python.org/ko/3/library/index.html
+- 원문: https://docs.python.org/3/library/index.html
+- 한국어: https://docs.python.org/ko/3/library/index.html
 
 ## 네이버 밴드
 
-https://band.us/band/84462180 
+- https://band.us/band/84462180 
 
 ## 주차별 공부 & 발표 내용
 
