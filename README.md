@@ -41,37 +41,37 @@ Python 을 이용하여 가장 효과적인 프로그래밍을 하는 것이 목
 
 ## 주차별 공부 & 발표 내용
 
-- 1주차
+- 2주차
   - [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
   - [Built-in Exceptions](https://docs.python.org/3/library/exceptions.html)
-- 2주차
+- 3주차
   - [Text Processing Services](https://docs.python.org/3/library/text.html)
   - [Binary Data Services](https://docs.python.org/3/library/binary.html)
-- 3주차
-  - [Data Types](https://docs.python.org/3/library/datatypes.html)
 - 4주차
+  - [Data Types](https://docs.python.org/3/library/datatypes.html)
+- 5주차
   - [Functional Programming Modules](https://docs.python.org/3/library/functional.html)
   - [File and Directory Access](https://docs.python.org/3/library/filesys.html)
-- 5주차
+- 6주차
   - [Data Persistence](https://docs.python.org/3/library/persistence.html)
   - [File Formats](https://docs.python.org/3/library/fileformats.html)
   - [Generic Operating System Services](https://docs.python.org/3/library/allos.html)
-- 6주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
 - 7주차
-  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Thread
 - 8주차
-  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+  - [Concurrent Execution](https://docs.python.org/3/library/concurrency.html) -> Process
 - 9주차
+  - [Networking and Interprocess Communication](https://docs.python.org/3/library/ipc.html)
+- 10주차
   - [Internet Data Handling](https://docs.python.org/3/library/netdata.html)
   - [Structured Markup Processing Tools](https://docs.python.org/3/library/markup.html)
   - [Internet Protocols and Support](https://docs.python.org/3/library/internet.html)
-- 10주차
+- 11주차
   - [Program Frameworks](https://docs.python.org/3/library/frameworks.html)
   - [Development Tools](https://docs.python.org/3/library/development.html)
   - [Debugging and Profiling](https://docs.python.org/3/library/debug.html)
   - [Software Packaging and Distribution](https://docs.python.org/3/library/distribution.html)
-- 11주차
+- 12주차
   - [Python Runtime Services](https://docs.python.org/3/library/python.html)
   - [Importing Modules](https://docs.python.org/3/library/modules.html)
   - [Python Language Services](https://docs.python.org/3/library/language.html)
